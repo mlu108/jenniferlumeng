@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_hawaii.jpg
   image_circular: false # crops the image to make it circular
   #more_info: >
   #  <p>[google scholar](https://scholar.google.com/citations?user=HKcXxKMAAAAJ&hl=en) | [X](https://x.com/jenniferlumeng)</p>
@@ -25,4 +25,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I’m a second-year Sc.M. student in Computer Science at Brown University, advised by [Ellie Pavlick](https://cs.brown.edu/people/epavlick/) and [Carsten Eickhoff](https://health-nlp.com/). I earned my B.A. from Wellesley College in 2024. My research focuses on mechanistic interpretability—mapping hidden representations to the functions models learn, uncovering circuits behind model behavior, and exploring connections between large language models and human cognitive and linguistic processes.
+I’m a second-year Sc.M. student in Computer Science at Brown University, advised by [Ellie Pavlick](https://cs.brown.edu/people/epavlick/) and [Carsten Eickhoff](https://health-nlp.com/). I graduated from Wellesley College with a double major in CS and history. \
+
+I am deeply passionate about interpretability—mapping hidden representations to the functions models learn, uncovering circuits behind model behavior, and exploring connections between large language models and human cognitive and linguistic processes.
+
+Outside of research, I enjoy creative writing, chamber music & tennis.
