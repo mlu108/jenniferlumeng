@@ -32,3 +32,9 @@ Write your biography here. Tell the world about yourself. Link to your favorite 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+I am an incoming second-year ScM student at Brown University, previously graduated from Wellesley College in 2024. I am very grateful to work with [Ellie Pavlick](https://cs.brown.edu/people/epavlick/) and [Carsten Eickhoff](https://health-nlp.com/).
+
+I’m a second-year Sc.M. student in Computer Science at Brown University, advised by [Ellie Pavlick](https://cs.brown.edu/people/epavlick/) and [Carsten Eickhoff](https://health-nlp.com/). I earned my B.A. from Wellesley College in 2024. My research focuses on mechanistic interpretability—mapping hidden representations to the functions models learn, uncovering circuits behind model behavior, and exploring connections between large language models and human cognitive and linguistic processes.
+# google scholar: https://scholar.google.com/citations?user=HKcXxKMAAAAJ&hl=en
+# X: https://x.com/jenniferlumeng
