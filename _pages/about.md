@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic_hawaii.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   #more_info: >
   #  <p>[google scholar](https://scholar.google.com/citations?user=HKcXxKMAAAAJ&hl=en) | [X](https://x.com/jenniferlumeng)</p>
@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -27,6 +27,6 @@ latest_posts:
 ---
 I’m a second-year Sc.M. student in Computer Science at Brown University, advised by [Ellie Pavlick](https://cs.brown.edu/people/epavlick/) and [Carsten Eickhoff](https://health-nlp.com/). I graduated from Wellesley College with a double major in CS and history. 
 
-I am deeply passionate about interpretability—mapping hidden representations to the functions models learn, uncovering circuits behind model behavior, and exploring connections between large language models and human cognitive and linguistic processes.
+I am deeply passionate about interpretability—mapping hidden representations to the functions models learn, uncovering circuits behind model behavior, and exploring connections between large language models and human cognitive and linguistic processes. 
 
 Outside of research, I enjoy creative writing, chamber music & tennis.
