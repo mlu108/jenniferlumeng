@@ -440,16 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-my-two-1st-author-papers-both-have-been-accepted-to-emnlp-2025-main-so-incredibly-grateful-to-my-co-authors-and-mentors",
-          title: 'My two 1st-author papers both have been accepted to EMNLP 2025 Main! So...',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-8-20-2025-my-two-1st-author-papers-both-have-been-accepted-to-emnlp-2025-main-so-incredibly-grateful-to-my-co-authors-and-mentors",
+          title: '8/20/2025 My two 1st-author papers both have been accepted to EMNLP 2025 Main!...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
