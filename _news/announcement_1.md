@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+My two 1st-author papers both have been accepted to EMNLP 2025 Main! So incredibly grateful to my co-authors and mentors 💐 
