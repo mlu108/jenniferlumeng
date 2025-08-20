@@ -440,8 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-my-two-1st-author-papers-both-have-been-accepted-to-emnlp-2025-main-so-grateful-to-my-most-amazing-co-authors-and-mentors",
-          title: 'My two 1st-author papers both have been accepted to EMNLP 2025 Main! So...',
+            },},{id: "news-my-two-1st-author-papers-both-have-been-accepted-to-emnlp-2025-main-conference-so-grateful-to-my-most-amazing-co-authors-and-mentors",
+          title: 'My two 1st-author papers both have been accepted to EMNLP 2025 Main Conference!...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
