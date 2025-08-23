@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "Previously, I have worked on research projects in the areas of Computer Vision, Augmented Reality, Backend Development.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -401,31 +401,31 @@ ninja.data = [{
             },},{id: "news-my-two-1st-author-papers-both-have-been-accepted-to-emnlp-2025-main-conference-so-grateful-to-my-most-amazing-co-authors-and-mentors",
           title: 'My two 1st-author papers both have been accepted to EMNLP 2025 Main Conference!...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+          section: "News",},{id: "projects-urop-mit-space-to-sea",
+          title: 'UROP @MIT: Space to Sea',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
+            },},{id: "projects-urop-mit-photogrammetry-and-mixed-reality-research",
+          title: 'UROP @MIT: Photogrammetry and Mixed Reality Research',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
+            },},{id: "projects-nsf-reu-brown-university-machine-learning-research",
+          title: 'NSF-REU @Brown University: Machine Learning Research',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
+            },},{id: "projects-personal-robotics-group-urop-mit-computer-vision-research",
+          title: 'Personal Robotics Group UROP @MIT: Computer Vision Research',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project/";
+            },},{id: "projects-mechatronics-research-lab-urop-mit-computer-vision-attention-research",
+          title: 'Mechatronics Research Lab UROP @MIT: Computer Vision, Attention Research',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project/";
             },},{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",
