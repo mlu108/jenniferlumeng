@@ -1,15 +1,18 @@
 ---
-title: "Personal Robotics Group UROP @MIT: Computer Vision Research"
-subtitle: "Dyadic Affect Analysis in Parent-Child Interaction"
-date: 2023-09-01
+layout: page
+title: "Computer Vision Research @ MIT Media Lab Personal Robotics Group"
+description: For this research, I developed a multi-modal deep neural network for Dyadic Affect Analysis in Parent-child multi-modal interaction in order to enhance the performance of a speech-recognition-based model. I integrated yolov5 and DeepFace to differentiate parent versus child for accurate attention estimation (95% accuracy) and built pipeline to analyze emotions and nonverbal cues during dyadic interaction. I wrote the first-author paper "Denoising Triadic Interactions for Agent Interjection Analysis" (submitted to ICMI 2024).
+
 importance: 1
-category: work
-image: /assets/img/project_historical_reconstruction.png
-link: 
-  - name: "Paper"
-    url: https://arxiv.org/abs/your_paper_link  # if applicable
+
+category: computer vision, HCI
 ---
-- Developed a multi-modal deep neural network for Dyadic Affect Analysis in Parent-child interaction.
-- Integrated yolov5 and DeepFace to differentiate parent/child for accurate attention estimation (95% accuracy).
-- Built pipeline to analyze emotions and nonverbal cues during dyadic interaction.
-- First-author paper: *Denoising Triadic Interactions for Agent Interjection Analysis*.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project_historical_reconstruction.png" title="" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
+
