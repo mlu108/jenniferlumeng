@@ -3,7 +3,7 @@ layout: page
 title: "Space to Sea @ MIT: Frontend & Backend Development"
 description: I developed the website for Keith Ellenbogen’s Stellwagen Bank photography exhibition and built dynamic uploader interfaces to restructure <a href='http://vibrantsea.mit.edu/'>Vibrant Sea</a>. This enabled more efficient data transfer and processing. I also processed NASA satellite imagery for the exhibition’s artistic collection.
 importance: 5
-category: Backend and Frontend Development
+category: main
 ---
 
 <div class="row">

@@ -3,7 +3,7 @@ layout: page
 title: "Photogrammetry & Mixed Reality Research @ MIT"
 description: For this project, I applied photogrammetry to generate VR “digital twins” of seven heritage sites in Afghanistan, creating VR archives for historical conservation. I also developed an AR-based iOS game for displaced Afghan children to engage with the sites. This work was presented at the MIT Media Lab conference “Ways of Seeing.”
 importance: 3
-category: Machine Learning, Photogrammetry, Augmented Reality
+category: main
 ---
 
 <div class="row">
