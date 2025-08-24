@@ -406,24 +406,24 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-machine-learning-research-brown-university-nsf-reu",
-          title: 'Machine Learning Research @ Brown University (NSF-REU)',
-          description: "During this NSF-REU, I developed a novel ENerf-backboned pipeline to optimize instantaneous 2D→3D data conversion for VR teleoperation, achieving a ~110° field-of-view. I conducted camera calibration for Boston Dynamics’ Spot robots and performed baseline tests. I also improved robot arm motion control using inverse kinematics through MR headsets. I presented this work at Leadership Alliance National Conference 2023 and Tanner Conference 2023.",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-photogrammetry-amp-mixed-reality-research-mit",
-          title: 'Photogrammetry &amp;amp; Mixed Reality Research @ MIT',
-          description: "For this project, I applied photogrammetry to generate VR “digital twins” of seven heritage sites in Afghanistan, creating VR archives for historical conservation. I also developed an AR-based iOS game for displaced Afghan children to engage with the sites. This work was presented at the MIT Media Lab conference “Ways of Seeing.”",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-computer-vision-amp-attention-research-mit-mechatronics-research-lab",
-          title: 'Computer Vision &amp;amp; Attention Research @ MIT Mechatronics Research Lab',
-          description: "I refined the augmented reality display of robots’ trajectories and human motions for safer human-robot collaboration. I conducted human–robot trials on assembly tasks for quantitative analysis of interaction efficiency and safety.",
+            },},{id: "projects-augmented-reality-amp-robotics-research-mit-mechatronics-research-lab",
+          title: 'Augmented Reality &amp;amp; Robotics Research @ MIT Mechatronics Research Lab',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-space-to-sea-mit-frontend-amp-backend-development",
-          title: 'Space to Sea @ MIT: Frontend &amp;amp; Backend Development',
-          description: "I developed the website for Keith Ellenbogen’s Stellwagen Bank photography exhibition and built dynamic uploader interfaces to restructure Vibrant Sea. This enabled more efficient data transfer and processing. I also processed NASA satellite imagery for the exhibition’s artistic collection.",
+            },},{id: "projects-space-to-sea-mit-plankton-and-nasa-data-processing",
+          title: 'Space to Sea @ MIT: Plankton and Nasa Data Processing',
+          description: "Backend and Frontend Developement",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-project-6",
