@@ -5,7 +5,7 @@ permalink: /projects/
 description: Previously, I have worked on research projects in the areas of Computer Vision, Robotics, Augmented Reality, Machine Learning, Backend Development and etc. 
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: #[work, fun]
 horizontal: false
 ---
 

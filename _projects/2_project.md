@@ -8,6 +8,9 @@ category: Computer Vision, Machine Learning, Augmented Reality, Robotics
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_vr.png" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_enerf.pdf" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+
+#github demo: https://github.com/mlu108/enerf-scene-reconstruction
