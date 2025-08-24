@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "Previously, I have worked on research projects in the areas of Computer Vision, Augmented Reality, Backend Development.",
+          description: "Previously, I have worked on research projects in the areas of Computer Vision, Robotics, Augmented Reality, Machine Learning, Backend Development and etc.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -406,26 +406,26 @@ ninja.data = [{
           description: "For this research, I developed a multi-modal deep neural network for Dyadic Affect Analysis in Parent-child multi-modal interaction in order to enhance the performance of a speech-recognition-based model. I integrated yolov5 and DeepFace to differentiate parent versus child for accurate attention estimation (95% accuracy) and built pipeline to analyze emotions and nonverbal cues during dyadic interaction. I wrote the first-author paper &quot;Denoising Triadic Interactions for Agent Interjection Analysis&quot; (submitted to ICMI 2024).",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-urop-mit-space-to-sea",
-          title: 'UROP @MIT: Space to Sea',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-urop-mit-photogrammetry-and-mixed-reality-research",
-          title: 'UROP @MIT: Photogrammetry and Mixed Reality Research',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-nsf-reu-brown-university-machine-learning-research",
-          title: 'NSF-REU @Brown University: Machine Learning Research',
-          description: "",
+            },},{id: "projects-machine-learning-research-brown-university-nsf-reu",
+          title: 'Machine Learning Research @ Brown University (NSF-REU)',
+          description: "During this NSF-REU, I developed a novel ENerf-backboned pipeline to optimize instantaneous 2D→3D data conversion for VR teleoperation, achieving a ~110° field-of-view. I conducted camera calibration for Boston Dynamics’ Spot robots and performed baseline tests. I also improved robot arm motion control using inverse kinematics through MR headsets. I presented this work at Leadership Alliance National Conference 2023 and Tanner Conference 2023.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-mechatronics-research-lab-urop-mit-computer-vision-attention-research",
-          title: 'Mechatronics Research Lab UROP @MIT: Computer Vision, Attention Research',
-          description: "",
+            },},{id: "projects-photogrammetry-amp-mixed-reality-research-mit",
+          title: 'Photogrammetry &amp;amp; Mixed Reality Research @ MIT',
+          description: "For this project, I applied photogrammetry to generate VR “digital twins” of seven heritage sites in Afghanistan, creating VR archives for historical conservation. I also developed an AR-based iOS game for displaced Afghan children to engage with the sites. This work was presented at the MIT Media Lab conference “Ways of Seeing.”",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
+            },},{id: "projects-computer-vision-amp-attention-research-mit-mechatronics-research-lab",
+          title: 'Computer Vision &amp;amp; Attention Research @ MIT Mechatronics Research Lab',
+          description: "I refined the augmented reality display of robots’ trajectories and human motions for safer human-robot collaboration. I conducted human–robot trials on assembly tasks for quantitative analysis of interaction efficiency and safety.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
+            },},{id: "projects-space-to-sea-mit-frontend-amp-backend-development",
+          title: 'Space to Sea @ MIT: Frontend &amp;amp; Backend Development',
+          description: "I developed the website for Keith Ellenbogen’s Stellwagen Bank photography exhibition and built dynamic uploader interfaces to restructure Vibrant Sea. This enabled more efficient data transfer and processing. I also processed NASA satellite imagery for the exhibition’s artistic collection.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_project/";
             },},{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",
