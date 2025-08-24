@@ -3,9 +3,7 @@ layout: page
 title: "Computer Vision Research @ MIT Media Lab Personal Robotics Group"
 img: assets/img/project_historical_reconstruction.png
 description: Developed EmoLink: Facial and Emotion Perception System for Displaying Interpersonal Dynamics in Real-World Parent-Child Interactions
-
 importance: 1
-
 category: main
 ---
 
