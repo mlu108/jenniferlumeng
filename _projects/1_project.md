@@ -5,7 +5,7 @@ description: For this research, I developed a multi-modal deep neural network fo
 
 importance: 1
 
-category: computer vision, HCI
+category: Computer Vision, Machine Learning, HCI
 ---
 
 <div class="row">

@@ -1,10 +1,13 @@
 ---
-title: "Mechatronics Research Lab UROP @MIT: Computer Vision, Attention Research"
-subtitle: "Human-Robot Collaboration"
-date: 2023-09-01
+layout: page
+title: "Computer Vision & Attention Research @ MIT Mechatronics Research Lab"
+description: I refined the augmented reality display of robots’ trajectories and human motions for safer human-robot collaboration. I conducted human–robot trials on assembly tasks for quantitative analysis of interaction efficiency and safety.
 importance: 4
-category: work
-image: /assets/img/project_historical_reconstruction.png
+category: Computer Vision, Machine Learning, Robotics, Augmented Reality
 ---
-- Refined AR displays of robot trajectories and human motion.
-- Conducted user trials for safety & efficiency in collaborative assembly tasks.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project_mechatronics.png" title="" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>

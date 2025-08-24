@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Previously, I have worked on research projects in the areas of Computer Vision, Augmented Reality, Backend Development. 
+description: Previously, I have worked on research projects in the areas of Computer Vision, Robotics, Augmented Reality, Machine Learning, Backend Development and etc. 
 nav: true
 nav_order: 2
 display_categories: [work, fun]
