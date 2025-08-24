@@ -394,19 +394,19 @@ ninja.data = [{
             },},{id: "news-my-two-1st-author-papers-both-have-been-accepted-to-emnlp-2025-main-conference-so-grateful-to-my-most-amazing-co-authors-and-mentors",
           title: 'My two 1st-author papers both have been accepted to EMNLP 2025 Main Conference!...',
           description: "",
-          section: "News",},{id: "projects-",
-          title: '',
-          description: "",
+          section: "News",},{id: "projects-computer-vision-research-mit-media-lab-personal-robotics-group",
+          title: 'Computer Vision Research @ MIT Media Lab Personal Robotics Group',
+          description: "Developed EmoLink: Facial and Emotion Perception System for Displaying Interpersonal Dynamics in Real-World Parent-Child Interactions",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-machine-learning-research-brown-university-nsf-reu",
+          title: 'Machine Learning Research @ Brown University (NSF-REU)',
+          description: "Worked on Project: Adapting NeRF for Low-Latency Reconstruction in VR Teleoperation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-photogrammetry-amp-mixed-reality-research-mit-idss",
+          title: 'Photogrammetry &amp;amp; Mixed Reality Research @ MIT IDSS',
+          description: "“Ways of Seeing”: Documenting Endangered Afghan Heritage Sites Using Photogrammetry and Mixed Reality",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-augmented-reality-amp-robotics-research-mit-mechatronics-research-lab",
