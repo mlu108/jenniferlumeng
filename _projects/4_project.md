@@ -1,10 +1,12 @@
 ---
 layout: page
-title: "Computer Vision & Attention Research @ MIT Mechatronics Research Lab"
-description: I refined the augmented reality display of robots’ trajectories and human motions for safer human-robot collaboration. I conducted human–robot trials on assembly tasks for quantitative analysis of interaction efficiency and safety.
+title: "Augmented Reality & Robotics Research @ MIT Mechatronics Research Lab"
+description: 
+img: project_mechatronics.png
 importance: 4
 category: main
 ---
+Refined the augmented reality display of robots’ trajectories and human motions for safer human-robot collaboration. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
