@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Computer Vision Research @ MIT Media Lab Personal Robotics Group"
-img: assets/img/project_historical_reconstruction.png
+img: assets/img/project_jibo.jpg
 description: Developed EmoLink: Facial and Emotion Perception System for Displaying Interpersonal Dynamics in Real-World Parent-Child Interactions
 importance: 1
 category: main
@@ -11,7 +11,7 @@ For this research, I developed a multi-modal deep neural network for Dyadic Affe
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_historical_reconstruction.png" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_jibo.jpg" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
