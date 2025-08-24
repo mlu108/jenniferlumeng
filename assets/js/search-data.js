@@ -401,7 +401,12 @@ ninja.data = [{
             },},{id: "news-my-two-1st-author-papers-both-have-been-accepted-to-emnlp-2025-main-conference-so-grateful-to-my-most-amazing-co-authors-and-mentors",
           title: 'My two 1st-author papers both have been accepted to EMNLP 2025 Main Conference!...',
           description: "",
-          section: "News",},{id: "projects-urop-mit-space-to-sea",
+          section: "News",},{id: "projects-computer-vision-research-mit-media-lab-personal-robotics-group",
+          title: 'Computer Vision Research @ MIT Media Lab Personal Robotics Group',
+          description: "For this research, I developed a multi-modal deep neural network for Dyadic Affect Analysis in Parent-child multi-modal interaction in order to enhance the performance of a speech-recognition-based model. I integrated yolov5 and DeepFace to differentiate parent versus child for accurate attention estimation (95% accuracy) and built pipeline to analyze emotions and nonverbal cues during dyadic interaction. I wrote the first-author paper &quot;Denoising Triadic Interactions for Agent Interjection Analysis&quot; (submitted to ICMI 2024).",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project/";
+            },},{id: "projects-urop-mit-space-to-sea",
           title: 'UROP @MIT: Space to Sea',
           description: "",
           section: "Projects",handler: () => {
@@ -416,11 +421,6 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-personal-robotics-group-urop-mit-computer-vision-research",
-          title: 'Personal Robotics Group UROP @MIT: Computer Vision Research',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
             },},{id: "projects-mechatronics-research-lab-urop-mit-computer-vision-attention-research",
           title: 'Mechatronics Research Lab UROP @MIT: Computer Vision, Attention Research',
           description: "",
