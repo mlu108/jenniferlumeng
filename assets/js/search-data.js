@@ -394,7 +394,7 @@ ninja.data = [{
             },},{id: "news-my-two-1st-author-papers-both-have-been-accepted-to-emnlp-2025-main-conference-so-grateful-to-my-most-amazing-co-authors-and-mentors",
           title: 'My two 1st-author papers both have been accepted to EMNLP 2025 Main Conference!...',
           description: "",
-          section: "News",},{id: "news-we-presented-our-mechanisms-of-in-context-syntatic-generalization-in-language-models-work-in-progress-and-paths-not-taken-understanding-and-mending-fact-recall-pipeline-in-nemi-2025",
+          section: "News",},{id: "news-we-presented-our-mechanisms-of-in-context-syntatic-generalization-in-language-models-work-in-progress-and-paths-not-taken-understanding-and-mending-multilingual-fact-recall-pipeline-in-nemi-2025",
           title: 'We presented our “Mechanisms of In-Context Syntatic Generalization in Language Models” (work-in-progress), and...',
           description: "",
           section: "News",},{id: "projects-computer-vision-research-mit-media-lab-personal-robotics-group",
