@@ -422,6 +422,11 @@ ninja.data = [{
           description: "Backend and Frontend Developement",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
+            },},{id: "projects-instilling-inductive-bias-in-language-models-for-complex-historical-event-representation",
+          title: 'Instilling Inductive Bias in Language Models for Complex Historical Event Representation',
+          description: "Final Project for CS333 Natural Language Processing (Professor: Carolyn Anderson)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project_complex_historical_event/";
             },},{
         id: 'social-email',
         title: 'email',
