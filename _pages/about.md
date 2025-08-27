@@ -23,7 +23,7 @@ announcements:
 latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 5 # leave blank to include all the blog posts
 ---
 I’m a second-year Sc.M. student in Computer Science at Brown University, advised by [Ellie Pavlick](https://cs.brown.edu/people/epavlick/) and [Carsten Eickhoff](https://health-nlp.com/). I graduated from Wellesley College with a double major in CS and history. 
 
