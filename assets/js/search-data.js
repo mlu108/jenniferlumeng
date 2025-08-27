@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "Previously, I have worked on research projects in the areas of Computer Vision, Robotics, Augmented Reality, Machine Learning, Backend Development and etc.",
+          description: "Previously, I have worked on research projects in the areas of Computer Vision, Computational Social Science, Robotics, Augmented Reality, Machine Learning, Backend Development and etc.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
