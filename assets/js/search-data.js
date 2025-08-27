@@ -395,7 +395,7 @@ ninja.data = [{
           title: 'My two 1st-author papers both have been accepted to EMNLP 2025 Main Conference!...',
           description: "",
           section: "News",},{id: "news-we-presented-our-mechanisms-of-in-context-syntatic-generalization-in-language-models-wip-and-paths-not-taken-in-nemi-2025",
-          title: 'We presented our “Mechanisms of In-Context Syntatic Generalization in Language Models” (WIP), and...',
+          title: 'We presented our “Mechanisms of In-Context Syntatic Generalization in Language Models” (WIP) and...',
           description: "",
           section: "News",},{id: "projects-computer-vision-research-mit-media-lab-personal-robotics-group",
           title: 'Computer Vision Research @ MIT Media Lab Personal Robotics Group',
