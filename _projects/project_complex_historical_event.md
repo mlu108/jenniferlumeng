@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Complex Historical Event Representation"
+title: "Complex Event Representation"
 img: assets/img/project_world_event.jpeg
 description: "Final Project for CS333 Natural Language Processing (Professor: Carolyn Anderson): Instilling Inductive Bias in Language Models for Complex Historical Event Representation"
 importance: 3
