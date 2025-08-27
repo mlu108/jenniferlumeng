@@ -3,7 +3,7 @@ layout: page
 title: "Space to Sea @ MIT: Plankton and Nasa Data Processing"
 description: Backend and Frontend Developement
 img: assets/img/project_marine_nasa.png
-importance: 5
+importance: 6
 category: main
 ---
 I developed the website for Keith Ellenbogen’s Stellwagen Bank photography exhibition and built dynamic uploader interfaces to restructure <a href='http://vibrantsea.mit.edu/'>Vibrant Sea</a>. This enabled more efficient data transfer and processing. I also processed NASA satellite imagery for the exhibition’s artistic collection.

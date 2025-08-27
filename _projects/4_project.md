@@ -3,7 +3,7 @@ layout: page
 title: "Augmented Reality & Robotics Research @ MIT Mechatronics Research Lab"
 description: 
 img: assets/img/project_mechatronics.png
-importance: 4
+importance: 5
 category: main
 ---
 Refined the augmented reality display of robots’ trajectories and human motions for safer human-robot collaboration. 

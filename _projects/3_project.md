@@ -3,7 +3,7 @@ layout: page
 title: "Photogrammetry & Mixed Reality Research @ MIT IDSS"
 img: assets/img/project_historical_reconstruction.png
 description: "“Ways of Seeing”: Documenting Endangered Afghan Heritage Sites Using Photogrammetry and Mixed Reality"
-importance: 3
+importance: 4
 category: main
 ---
 For this project, I applied photogrammetry to generate VR “digital twins” of seven heritage sites in Afghanistan, creating VR archives for historical conservation. I also developed an AR-based iOS game for displaced Afghan children to engage with the sites. This work was presented at the MIT Media Lab conference “Ways of Seeing.”
