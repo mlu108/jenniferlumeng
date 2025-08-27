@@ -27,6 +27,6 @@ latest_posts:
 ---
 I’m a second-year Sc.M. student in Computer Science at Brown University, advised by [Ellie Pavlick](https://cs.brown.edu/people/epavlick/) and [Carsten Eickhoff](https://health-nlp.com/). I graduated from Wellesley College with a double major in CS and history. 
 
-I am very passionate about mechanistic interpretability and orients my research around three questions: How are aspects of language and world knowledge represented within the model? How do models use these representations to solve tasks and generalize? With a better understanding, can we control and mitigate model errors?
+I am very passionate about mechanistic interpretability and orients my research around three questions: How are aspects of language and world knowledge represented in models? How do models use these representations to solve tasks and generalize? With a better understanding, can we control and mitigate model errors?
 
 Outside of research, I enjoy creative writing, chamber music & tennis.
