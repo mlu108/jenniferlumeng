@@ -19,8 +19,5 @@ This work points toward a deeper integration of computational methods with socia
     </div>
 </div>
 
-<p>
-  <a href="/assets/pdf/project_world_event_writeup.pdf" class="btn btn-primary" target="_blank">
-    📄 View Full Project Writeup
-  </a>
-</p>
+[Project Writeup: ](/assets/pdf/project_world_event_writeup.pdf)
+
